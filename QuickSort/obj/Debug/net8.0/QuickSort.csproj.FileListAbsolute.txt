@@ -1,0 +1,14 @@
+/Users/armanaslanyan/Desktop/rider/Algorithms/QuickSort/bin/Debug/net8.0/QuickSort
+/Users/armanaslanyan/Desktop/rider/Algorithms/QuickSort/bin/Debug/net8.0/QuickSort.deps.json
+/Users/armanaslanyan/Desktop/rider/Algorithms/QuickSort/bin/Debug/net8.0/QuickSort.runtimeconfig.json
+/Users/armanaslanyan/Desktop/rider/Algorithms/QuickSort/bin/Debug/net8.0/QuickSort.dll
+/Users/armanaslanyan/Desktop/rider/Algorithms/QuickSort/bin/Debug/net8.0/QuickSort.pdb
+/Users/armanaslanyan/Desktop/rider/Algorithms/QuickSort/obj/Debug/net8.0/QuickSort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/armanaslanyan/Desktop/rider/Algorithms/QuickSort/obj/Debug/net8.0/QuickSort.AssemblyInfoInputs.cache
+/Users/armanaslanyan/Desktop/rider/Algorithms/QuickSort/obj/Debug/net8.0/QuickSort.AssemblyInfo.cs
+/Users/armanaslanyan/Desktop/rider/Algorithms/QuickSort/obj/Debug/net8.0/QuickSort.csproj.CoreCompileInputs.cache
+/Users/armanaslanyan/Desktop/rider/Algorithms/QuickSort/obj/Debug/net8.0/QuickSort.dll
+/Users/armanaslanyan/Desktop/rider/Algorithms/QuickSort/obj/Debug/net8.0/refint/QuickSort.dll
+/Users/armanaslanyan/Desktop/rider/Algorithms/QuickSort/obj/Debug/net8.0/QuickSort.pdb
+/Users/armanaslanyan/Desktop/rider/Algorithms/QuickSort/obj/Debug/net8.0/QuickSort.genruntimeconfig.cache
+/Users/armanaslanyan/Desktop/rider/Algorithms/QuickSort/obj/Debug/net8.0/ref/QuickSort.dll
